@@ -23,12 +23,12 @@ permalink: /
 [リンク](https://www.google.co.jp/)
 
 **受賞歴**
-＊FM Q LEAGUE AWARD 2017：年間大賞 - 「君はロックを聴かない」。
-*FM5局共同企画「NIHON SAFETY MUSIC FOR THE NEXT」：NEXT BREAK ARTIST。
-*第61回輝く！日本レコード大賞 : 優秀アルバム賞 - 「瞬間的シックスセンス」。
-*MTV Video Music Awards Japan : 最優秀アーティストビデオ賞「今夜このまま」（2019年）。
-*SPACE SHOWER MUSIC AWARDS 2020 : BEST FEMALE ARTIST。
-*MTV Video Music Awards Japan : 最優秀邦楽女性アーティストビデオ賞 / BEST VIDEO OF THE YEAR「裸の心」（2020年）。
+# FM Q LEAGUE AWARD 2017：年間大賞 - 「君はロックを聴かない」。
+## FM5局共同企画「NIHON SAFETY MUSIC FOR THE NEXT」：NEXT BREAK ARTIST。
+### 第61回輝く！日本レコード大賞 : 優秀アルバム賞 - 「瞬間的シックスセンス」。
+#### MTV Video Music Awards Japan : 最優秀アーティストビデオ賞「今夜このまま」（2019年）。
+##### SPACE SHOWER MUSIC AWARDS 2020 : BEST FEMALE ARTIST。
+###### MTV Video Music Awards Japan : 最優秀邦楽女性アーティストビデオ賞 / BEST VIDEO OF THE YEAR「裸の心」（2020年）。
 
 > 写真引用https://www.google.com/url?sa=i&url=https%3A%2F%2Fnatalie.mu%2Fmusic%2Fartist%2F100159&psig=AOvVaw1Kz0I4dpRkpDf2SWuI3wqD&ust=1683714010136000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjmt-uB6P4CFQAAAAAdAAAAABAK
 >> 多重引用
