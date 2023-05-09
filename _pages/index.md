@@ -15,10 +15,10 @@ permalink: /
 
 # あいみょん
 ## シンガーソングライター
-### 兵庫県出身
+### 兵庫県西宮市出身
 #### 1995年〈平成7年〉3月6日
 ##### 2014年デビュー
-###### 見出し6
+###### 血液型：O型
 
 改行は、行末に半角スペースを2個いれる
 次の行
@@ -27,7 +27,7 @@ permalink: /
 
 **太字**
 
-> 引用
+> 引用https://www.google.com/url?sa=i&url=https%3A%2F%2Fnatalie.mu%2Fmusic%2Fartist%2F100159&psig=AOvVaw1Kz0I4dpRkpDf2SWuI3wqD&ust=1683714010136000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjmt-uB6P4CFQAAAAAdAAAAABAK
 >> 多重引用
 
 
