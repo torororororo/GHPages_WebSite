@@ -11,7 +11,6 @@ permalink: /
 
 ---
 
-以下テンプレート
 
 # あいみょん
 ## シンガーソングライター
@@ -20,12 +19,10 @@ permalink: /
 ##### 2014年デビュー
 ###### 血液型：O型
 
-改行は、行末に半角スペースを2個いれる
-次の行
 
 [リンク](https://www.google.co.jp/)
 
-**太字**
+**最近、韓国でバズり始めてる！**
 
 > 写真引用https://www.google.com/url?sa=i&url=https%3A%2F%2Fnatalie.mu%2Fmusic%2Fartist%2F100159&psig=AOvVaw1Kz0I4dpRkpDf2SWuI3wqD&ust=1683714010136000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjmt-uB6P4CFQAAAAAdAAAAABAK
 >> 多重引用
