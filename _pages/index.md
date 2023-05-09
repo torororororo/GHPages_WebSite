@@ -27,7 +27,7 @@ permalink: /
 
 **太字**
 
-> 引用https://www.google.com/url?sa=i&url=https%3A%2F%2Fnatalie.mu%2Fmusic%2Fartist%2F100159&psig=AOvVaw1Kz0I4dpRkpDf2SWuI3wqD&ust=1683714010136000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjmt-uB6P4CFQAAAAAdAAAAABAK
+> 写真引用https://www.google.com/url?sa=i&url=https%3A%2F%2Fnatalie.mu%2Fmusic%2Fartist%2F100159&psig=AOvVaw1Kz0I4dpRkpDf2SWuI3wqD&ust=1683714010136000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjmt-uB6P4CFQAAAAAdAAAAABAK
 >> 多重引用
 
 
