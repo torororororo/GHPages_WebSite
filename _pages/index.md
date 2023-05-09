@@ -1,6 +1,6 @@
 ---
-title: "ここにページのタイトル"
-author: default
+title: "優里"
+author: とし
 permalink: /
 ---
 
@@ -14,7 +14,7 @@ permalink: /
 以下テンプレート
 
 # 優里
-## 見出し2
+## 
 ### 見出し3
 #### 見出し4
 ##### 見出し5
