@@ -3,7 +3,7 @@ title: "あいみょん"
 author: とし
 permalink: /
 ---
-https://ogre.natalie.mu/artist/100159/20190610/aimyon_art201906.jpg?imwidth=640&imdensity=1
+![image](https://github.com/torororororo/GHPages_WebSite/assets/133000354/f2b66d32-2800-4c00-8af5-5cfa59f6e734)
 
 
 
